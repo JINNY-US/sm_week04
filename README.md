@@ -81,7 +81,7 @@
 - 제목 char (200)   
 - 내용 text not null   
 - 작성 날짜 char (20)   
-- 별점 :1~5까지 고를 수 있음
+- 별점 : 1~5까지 고를 수 있음
 - 사진 첨부 : 선택 
 
 ***   
@@ -95,3 +95,13 @@
 ex) 저녁 선택 -> 주점, 노래방 등을 추천   
     점심 선택 -> 음식점, 옷가게 등을 추천   
 
+### (5) 안드로이드 스튜디오와 데이터베이스 연동 방법   
+
+#### 1. Amazon Web Services (AWS)   
+
+아마존에서 제공하는 유료 서비스 : ( https://aws.amazon.com/ko/ )   
+
+
+#### 2. Google Firebase   
+
+구글에서 제공하는 무료 서비스 : ( https://firebase.google.com/?hl=ko )   
