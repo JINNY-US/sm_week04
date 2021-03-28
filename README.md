@@ -135,3 +135,6 @@ ex) 저녁 선택 -> 주점, 노래방 등을 추천
 #### 2. Google Firebase   
 
 구글에서 제공하는 무료 서비스 : ( https://firebase.google.com/?hl=ko )   
+
+유료 서비스를 사용하기에 부담스러운 면이 있어서 학과 지원비가 나온다면 AWS를 사용하고 아니라면 Firebase를 사용하겠습니다.   
+
