@@ -45,7 +45,7 @@
 - 비밀번호 char (20) : textPassword   
 - 이메일1 char (10)   
 - 이메일2 char (20) : comboBox(선택가능)   
-- 이메일 char (25) : 이메일1@이메일2 ex) 201921036@smu.ac.kr   
+- 이메일 char (25) : 이메일1@이메일2 ex) 201921036@sangmyung.kr   
 - 업주여부 bool : radioButton   
 - 나이 int : 주점, 술집 필터링 용도   
 
